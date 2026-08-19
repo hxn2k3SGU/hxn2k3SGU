@@ -74,82 +74,83 @@ public class Developer {
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 EMS Management Backend
+### 👕 Clothing Store Management System
 
-Backend project written primarily in **Java**.
+Full-stack internship project for managing clothing store operations with **Spring Boot + React**.
 
-**Focus:**
-- Backend application structure
-- Business logic implementation
-- API and data handling
-- Java backend development practice
+**Highlights:**
+- JWT authentication & role-based authorization
+- Product, category and customer management
+- Order processing & automatic inventory updates
+- Revenue dashboard and low-stock alerts
 
-[🔗 View repository](https://github.com/hxn2k3SGU/ems-mangament-backend)
+[🔗 View repository](https://github.com/hxn2k3SGU/intern-2)
 
-`Java` `Backend`
+`Java 21` `Spring Boot` `React` `PostgreSQL` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ EMS Frontend
+### 🛒 Store Management & POS Platform
 
-Frontend side of the EMS project, written primarily in **JavaScript**.
+Full-stack retail management and point-of-sale platform built with **ASP.NET Core Web API + Vue 3**.
 
-**Focus:**
-- User interface development
-- Frontend/backend integration
-- Component-based web development
-- API consumption
+**Highlights:**
+- JWT / RBAC authentication
+- POS, inventory, orders, promotions and refunds
+- VNPay payment integration & PDF invoices
+- Amazon S3 and AI-assisted recommendations
 
-[🔗 View repository](https://github.com/hxn2k3SGU/ems-frontend)
+[🔗 View repository](https://github.com/hxn2k3SGU/.Net-prj)
 
-`JavaScript` `Frontend`
+`C#` `.NET 9` `ASP.NET Core` `EF Core` `Vue 3` `MySQL`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Todo App
+### ✈️ Airline Ticket Booking — Backend
 
-A small application project for practicing web development and task-management flows.
+Backend services for an airline ticket booking platform built with **Java 21 and Spring Boot**.
 
-**Focus:**
-- CRUD operations
-- UI interaction
-- Application state
-- Clean project structure
+**Highlights:**
+- RESTful APIs with Spring Data JPA
+- Spring Security, JWT & Google OAuth2
+- VNPay payment and email workflows
+- WebSocket, PDF ticket/invoice and Excel export support
 
-[🔗 View repository](https://github.com/hxn2k3SGU/Todo_app)
+[🔗 View repository](https://github.com/hxn2k3SGU/Airline-Ticket-Booking-Website-BE)
 
-`JavaScript` `Web App`
+`Java 21` `Spring Boot` `MySQL` `JWT` `WebSocket` `JasperReports`
 
 </td>
 <td width="50%" valign="top">
 
-### 🐦 Flappy Bird
+### 🛫 Airline Ticket Booking — Frontend
 
-A Python game project inspired by Flappy Bird.
+Modern web interface for searching, booking and managing airline flights.
 
-**Focus:**
-- Python programming
-- Game logic
-- Event handling
-- Problem solving
+**Highlights:**
+- Responsive React interface
+- Flight and booking management UI
+- Real-time communication support
+- Admin flight-status management and data visualization
 
-[🔗 View repository](https://github.com/hxn2k3SGU/flapy-bird)
+[🔗 View repository](https://github.com/hxn2k3SGU/Airline-Ticket-Booking-Website-FE)
 
-`Python` `Game Development`
+`React 19` `Vite` `Tailwind CSS` `Ant Design` `Axios` `Recharts`
 
 </td>
 </tr>
 </table>
-
----
 
 ## 📈 GitHub Stats
 
