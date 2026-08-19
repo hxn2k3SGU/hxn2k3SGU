@@ -162,6 +162,8 @@ Modern web interface for searching, booking and managing airline flights.
 
 [![GitHub](https://img.shields.io/badge/GitHub-hxn2k3SGU-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hxn2k3SGU)
 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hxn2k3@gmail.com)
+
 </div>
 
 ---
