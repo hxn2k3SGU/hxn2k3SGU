@@ -72,7 +72,6 @@ public class Developer {
 
 ---
 
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
