@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D47A1,100:00D9FF&height=220&section=header&text=HXN2K3SGU&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20JAVA%20%26%20.NET&descAlignY=60&descSize=18" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D47A1,100:00D9FF&height=220&section=header&text=HXN2K3SGU&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20JAVA%20%26%20.NET&descAlignY=60&descSize=18" /> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=680&lines=Backend+Developer+%7C+Java+%26+.NET;Building+clean+and+reliable+applications;Learning+every+day+%F0%9F%9A%80;Open+to+Fresher+%2F+Junior+opportunities)](https://git.io/typing-svg)
 
